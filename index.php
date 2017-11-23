@@ -232,7 +232,7 @@ the_author_meta( 'first_name', $author_id );
     <div class="col-md-4 col-sm-4 txt-der cruz padd2em">
     <h2 data-step="7" data-intro="Suscribete y y forma parte de la comunidad Zihua Ofertas recibiendo ofertas y descuentos."><img src="<?php echo $ruta; ?>/img/ZihuaOfertasNews.svg" alt="Suscribete a Zihua Ofertas" /></h2>
     
-    <p ><strong>Suscribete ahora</strong> y se parte <br> de los que reciben las ofertas y promociones primero.</p>
+    <p ><strong>Únete ahora</strong> y se parte <br> de la comunidad de ofertas y promociones.</p>
     
     </div>
     
