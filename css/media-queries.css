@@ -1,0 +1,17 @@
+@media only screen and (max-width:1920px) {
+
+}
+@media only screen and (max-width:1300px) {
+
+}
+@media only screen and (max-width:768px) {
+
+}
+
+@media only screen and (max-width:479px) {
+
+    #detalles_principales h1 {
+        font-size: 4vw;
+    }
+
+}

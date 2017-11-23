@@ -1,0 +1,61 @@
+@media only screen and (min-width: 1650px){
+    #chowme:: before{ content: "Read this: ";}
+    #chowme{background-color: #ff0080;}
+    #labarra p {
+  font-size: 1em;
+  padding: 2%;
+}
+}
+
+@media only screen and (max-width: 1250px){
+    #chowme:: before{ content: "Read this: ";}
+    #chowme{background-color: #ffce00;}
+}
+@media only screen and (min-width: 980px) and (max-width: 1249px) {
+
+
+}
+
+@media only screen and (max-width: 979px) {
+
+}
+
+
+@media (max-width: 767px) {
+#chowme{background-color: #3bff00;}
+.contenedor { width: 100%; margin-left: 0%;}
+#detalles_principales h1 {font-size: 1.5em;}
+#detalles_principales h2 {font-size: 1em;}
+#detalles_principales p {font-size: 0.8em;}
+}
+
+/* ipad*/
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+#chowme{background-color: #ff0000;}
+
+#labarra p {font-size: 0.8em; padding: 2%;}
+#detalles_principales h1 {font-size: 1.5em;}
+#detalles_principales h2 {font-size: 1em;}
+#detalles_principales p {font-size: 0.8em;}
+.ZihuaBoton {font-size: 0.6em;}
+
+     #principales img{max-width: 600px; height: 380px; margin-left: -75px;}
+ 
+}
+/* cel*/
+@media only screen and (max-width: 479px) {
+#chowme{background-color: #00d8ff;}
+
+#detalles_principales h1 {font-size: 1.3em;
+}
+#detalles_principales h2 {font-size: 1em; padding: 0.5em;
+}
+#detalles_principales p {font-size: 0.8em;
+}
+    .ZihuaBoton {font-size: 0.7em;
+}
+ .contenedor { width: 100%; margin-left: 0%;
+}
+
+    #nombreNegocio img {max-height: 22vw;}
+}
